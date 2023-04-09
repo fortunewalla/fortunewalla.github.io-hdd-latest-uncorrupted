@@ -1,0 +1,11 @@
+---
+title: "SQL Guide."
+#author: "Harlow Malloc"
+date: "2020-02-18"
+date-modified: "2/18/2020"
+categories: [guide, sql]
+image: "image.jpg"
+#draft: true
+---
+
+This is a long guide to mastering SQL.
