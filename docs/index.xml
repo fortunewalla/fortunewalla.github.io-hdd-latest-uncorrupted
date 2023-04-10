@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>L&#39;Œuvre</title>
-<link>fortunewalla.net/index.html</link>
-<atom:link href="fortunewalla.net/index.xml" rel="self" type="application/rss+xml"/>
+<link>/index.html</link>
+<atom:link href="/index.xml" rel="self" type="application/rss+xml"/>
 <description>Explore product management, data analytics, &amp; the metaverse.</description>
 <generator>quarto-1.3.290</generator>
 <lastBuildDate>Sat, 25 Mar 2023 18:30:00 GMT</lastBuildDate>
 <item>
   <title>SQL &amp; Database Administration Setup &amp; Tips</title>
-  <link>fortunewalla.net/posts/14-sqldbadmin/index.html</link>
+  <link>/posts/14-sqldbadmin/index.html</link>
   <description><![CDATA[ 
 
 
@@ -65,13 +65,13 @@ mysql -h &lt;hostname&gt; -u &lt;username&gt; -p&lt;pass&gt; &lt;dbname&gt;</cod
   <category>database</category>
   <category>dba</category>
   <category>tips</category>
-  <guid>fortunewalla.net/posts/14-sqldbadmin/index.html</guid>
+  <guid>/posts/14-sqldbadmin/index.html</guid>
   <pubDate>Sat, 25 Mar 2023 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>fortunewalla.net/posts/post-with-code/index.html</link>
+  <link>/posts/post-with-code/index.html</link>
   <description><![CDATA[ 
 
 
@@ -84,31 +84,31 @@ mysql -h &lt;hostname&gt; -u &lt;username&gt; -p&lt;pass&gt; &lt;dbname&gt;</cod
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>fortunewalla.net/posts/post-with-code/index.html</guid>
+  <guid>/posts/post-with-code/index.html</guid>
   <pubDate>Thu, 16 Feb 2023 18:30:00 GMT</pubDate>
-  <media:content url="fortunewalla.net/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
-  <link>fortunewalla.net/posts/welcome/index.html</link>
+  <link>/posts/welcome/index.html</link>
   <description><![CDATA[ 
 
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="fortunewalla.net/posts/welcome/thumbnail.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/welcome/thumbnail.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>fortunewalla.net/posts/welcome/index.html</guid>
+  <guid>/posts/welcome/index.html</guid>
   <pubDate>Thu, 16 Feb 2023 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>SQL Guide.</title>
-  <link>fortunewalla.net/posts/sql/index.html</link>
+  <link>/posts/sql/index.html</link>
   <description><![CDATA[ 
 
 
@@ -120,13 +120,13 @@ mysql -h &lt;hostname&gt; -u &lt;username&gt; -p&lt;pass&gt; &lt;dbname&gt;</cod
  ]]></description>
   <category>guide</category>
   <category>sql</category>
-  <guid>fortunewalla.net/posts/sql/index.html</guid>
+  <guid>/posts/sql/index.html</guid>
   <pubDate>Mon, 17 Feb 2020 18:30:00 GMT</pubDate>
-  <media:content url="fortunewalla.net/posts/sql/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="/posts/sql/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Some questions to ask entrepreneurs</title>
-  <link>fortunewalla.net/posts/13-questionstoaskentrepreneurs/index.html</link>
+  <link>/posts/13-questionstoaskentrepreneurs/index.html</link>
   <description><![CDATA[ 
 
 
@@ -207,12 +207,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>article</category>
   <category>product</category>
   <category>mitx</category>
-  <guid>fortunewalla.net/posts/13-questionstoaskentrepreneurs/index.html</guid>
+  <guid>/posts/13-questionstoaskentrepreneurs/index.html</guid>
   <pubDate>Wed, 10 Feb 2016 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Extracting initial parameters from an existing Holt‐Winter forecasting model</title>
-  <link>fortunewalla.net/posts/cs10-extractinginitialparametersexistingholtwinter/index.html</link>
+  <link>/posts/cs10-extractinginitialparametersexistingholtwinter/index.html</link>
   <description><![CDATA[ 
 
 
@@ -420,12 +420,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs10-extractinginitialparametersexistingholtwinter/index.html</guid>
+  <guid>/posts/cs10-extractinginitialparametersexistingholtwinter/index.html</guid>
   <pubDate>Sat, 28 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Forecasting with seasonal trends at BLAYK restaurant</title>
-  <link>fortunewalla.net/posts/cs09-forecastingseasonaltrendsblayk/index.html</link>
+  <link>/posts/cs09-forecastingseasonaltrendsblayk/index.html</link>
   <description><![CDATA[ 
 
 
@@ -447,7 +447,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-the-raw-data" class="level1">
 <h1>Visualization of the raw data</h1>
-<p><img src="fortunewalla.net/posts/cs09-forecastingseasonaltrendsblayk/9f7c787bf68f68e97ee79c9eb6bc6ad1.png" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs09-forecastingseasonaltrendsblayk/9f7c787bf68f68e97ee79c9eb6bc6ad1.png" class="quarto-discovered-preview-image img-fluid"></p>
 <section id="initial-seasonality-factors" class="level2">
 <h2 class="anchored" data-anchor-id="initial-seasonality-factors">Initial Seasonality Factors</h2>
 <p>The above diagram clearly points to a seasonality of the sales.</p>
@@ -649,7 +649,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 <p>y = 0.812x + 262.6</p>
 <p>From the regression equation we get a level of about 263 pints of beer per shift with an trend of 0.8 additional pints per time period. i.e.</p>
 <p>The regression gives you an estimated level of 265 pints per each shift with a trend of 0.80 additional pints per time period. This means that the sales of beer is increasing about 3.2 pints per day. Hence there is a positive trend trend.</p>
-<p><img src="fortunewalla.net/posts/cs09-forecastingseasonaltrendsblayk/a23739094719aa4968faaf829fddb96c.png" class="img-fluid"></p>
+<p><img src="/posts/cs09-forecastingseasonaltrendsblayk/a23739094719aa4968faaf829fddb96c.png" class="img-fluid"></p>
 <section id="seasonality" class="level3">
 <h3 class="anchored" data-anchor-id="seasonality">Seasonality</h3>
 <p>This involves estimating the initial values of the level and trend “de‐seasoning” the actual demand by the Seasonality Factors we just found. Part of the data used to calculate the normalized seasonality factors.</p>
@@ -973,12 +973,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs09-forecastingseasonaltrendsblayk/index.html</guid>
+  <guid>/posts/cs09-forecastingseasonaltrendsblayk/index.html</guid>
   <pubDate>Mon, 23 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Choice of moving average or exponential smoothing for a particular product profile</title>
-  <link>fortunewalla.net/posts/cs06-choiceofmovingaverageorexponential/index.html</link>
+  <link>/posts/cs06-choiceofmovingaverageorexponential/index.html</link>
   <description><![CDATA[ 
 
 
@@ -989,11 +989,11 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-raw-data" class="level2">
 <h2 class="anchored" data-anchor-id="visualization-of-raw-data">Visualization of raw data</h2>
-<p><img src="fortunewalla.net/posts/cs06-choiceofmovingaverageorexponential/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs06-choiceofmovingaverageorexponential/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <section id="forecasting-with-5-point-moving-average-simple-exponential-smoothing" class="level3">
 <h3 class="anchored" data-anchor-id="forecasting-with-5-point-moving-average-simple-exponential-smoothing">Forecasting with 5-point moving average &amp; simple exponential smoothing</h3>
 <p>Here we use α=1/3 for our exponential smoothing model</p>
-<p><img src="fortunewalla.net/posts/cs06-choiceofmovingaverageorexponential/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs06-choiceofmovingaverageorexponential/fig2.jpg" class="img-fluid"></p>
 </section>
 <section id="accuracy-of-the-models" class="level3">
 <h3 class="anchored" data-anchor-id="accuracy-of-the-models">Accuracy of the models</h3>
@@ -1015,7 +1015,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </tbody>
 </table>
 <p>Also comparing the error cumulatively gives a better picture of the accuracy of each of the models.</p>
-<p><img src="fortunewalla.net/posts/cs06-choiceofmovingaverageorexponential/fig3.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs06-choiceofmovingaverageorexponential/fig3.jpg" class="img-fluid"></p>
 </section>
 <section id="conclusion" class="level3">
 <h3 class="anchored" data-anchor-id="conclusion">Conclusion</h3>
@@ -1030,12 +1030,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs06-choiceofmovingaverageorexponential/index.html</guid>
+  <guid>/posts/cs06-choiceofmovingaverageorexponential/index.html</guid>
   <pubDate>Sun, 22 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Forecasting for Sugar Bon‐Bon Cereals</title>
-  <link>fortunewalla.net/posts/cs07-forecastingforsugarbonbon/index.html</link>
+  <link>/posts/cs07-forecastingforsugarbonbon/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1048,7 +1048,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-raw-data" class="level1">
 <h1>Visualization of raw data</h1>
-<p><img src="fortunewalla.net/posts/cs07-forecastingforsugarbonbon/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs07-forecastingforsugarbonbon/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <section id="simple-exponential-smoothing-ses" class="level2">
 <h2 class="anchored" data-anchor-id="simple-exponential-smoothing-ses">Simple Exponential Smoothing (SES)</h2>
 <p>We know that SES assumes stationary demand. i.e.&nbsp;it forecasts does not take into account trends or seasonalities. Even so, we would still like to know the effect of using SES on the forecasts.</p>
@@ -1065,7 +1065,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="holts-model-hm" class="level2">
 <h2 class="anchored" data-anchor-id="holts-model-hm">Holt’s Model (HM)</h2>
-<p><img src="fortunewalla.net/posts/cs07-forecastingforsugarbonbon/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs07-forecastingforsugarbonbon/fig2.jpg" class="img-fluid"></p>
 <p>Since the data shows a positive trend, we use HM which assumes level &amp; trend.</p>
 <p>Underlying model: <img src="https://latex.codecogs.com/png.latex?x_%7Bt%7D%20=%20a%20+%20bt%20+%20e_%7Bt%7D"></p>
 <p>Forecasting model: <img src="https://latex.codecogs.com/png.latex?%5Chat%7Bx%7D_%7Bt,t+%5Ctau%7D%20=%20%5Chat%7Ba%7D_%7Bt%7D+%5Ctau%20%5Chat%7Bb%7D_%7Bt%7D"></p>
@@ -1080,8 +1080,8 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="comparison-of-models" class="level2">
 <h2 class="anchored" data-anchor-id="comparison-of-models">Comparison of models</h2>
-<p><img src="fortunewalla.net/posts/cs07-forecastingforsugarbonbon/fig3.jpg" class="img-fluid"></p>
-<p><img src="fortunewalla.net/posts/cs07-forecastingforsugarbonbon/fig4.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs07-forecastingforsugarbonbon/fig3.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs07-forecastingforsugarbonbon/fig4.jpg" class="img-fluid"></p>
 </section>
 <section id="mape-of-the-various-models" class="level2">
 <h2 class="anchored" data-anchor-id="mape-of-the-various-models">MAPE of the various models</h2>
@@ -1126,12 +1126,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs07-forecastingforsugarbonbon/index.html</guid>
+  <guid>/posts/cs07-forecastingforsugarbonbon/index.html</guid>
   <pubDate>Sun, 22 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Exponential smoothing models at TrainMax Systems</title>
-  <link>fortunewalla.net/posts/cs08-exponentialsmoothingmodelstrainmax/index.html</link>
+  <link>/posts/cs08-exponentialsmoothingmodelstrainmax/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1143,12 +1143,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-the-raw-data" class="level1">
 <h1>Visualization of the raw data</h1>
-<p><img src="fortunewalla.net/posts/cs08-exponentialsmoothingmodelstrainmax/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs08-exponentialsmoothingmodelstrainmax/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <section id="simple-exponential-smoothing-ses-model" class="level2">
 <h2 class="anchored" data-anchor-id="simple-exponential-smoothing-ses-model">Simple Exponential Smoothing (SES) model</h2>
 <p>We try this model as it looks like there is stationary demand &amp; no trend. We need to assign the initial parameters first. We start with period 0 where we assume the forecast for the period 1 is the same as the demand for period 1. Also assume initial α=0.12</p>
 <p>Using this we have</p>
-<p><img src="fortunewalla.net/posts/cs08-exponentialsmoothingmodelstrainmax/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs08-exponentialsmoothingmodelstrainmax/fig2.jpg" class="img-fluid"></p>
 </section>
 <section id="varying-alpha-to-get-the-most-accurate-model" class="level2">
 <h2 class="anchored" data-anchor-id="varying-alpha-to-get-the-most-accurate-model">Varying alpha to get the most accurate model</h2>
@@ -1221,7 +1221,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </tr>
 </tbody>
 </table>
-<p><img src="fortunewalla.net/posts/cs08-exponentialsmoothingmodelstrainmax/fig3.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs08-exponentialsmoothingmodelstrainmax/fig3.jpg" class="img-fluid"></p>
 </section>
 <section id="conclusion" class="level2">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
@@ -1238,12 +1238,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs08-exponentialsmoothingmodelstrainmax/index.html</guid>
+  <guid>/posts/cs08-exponentialsmoothingmodelstrainmax/index.html</guid>
   <pubDate>Sun, 22 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Evaluation of stationary demand models</title>
-  <link>fortunewalla.net/posts/cs05-evaluationofstationarydemand/index.html</link>
+  <link>/posts/cs05-evaluationofstationarydemand/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1256,7 +1256,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-all-the-models" class="level1">
 <h1>Visualization of all the models</h1>
-<p><img src="fortunewalla.net/posts/cs05-evaluationofstationarydemand/9240726888c2daf802a451c0bdf69dfa.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs05-evaluationofstationarydemand/9240726888c2daf802a451c0bdf69dfa.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <section id="check-for-stationary-demand" class="level2">
 <h2 class="anchored" data-anchor-id="check-for-stationary-demand">Check for stationary demand</h2>
 <p>One way of doing is to determine the coefficient of variation (CV)</p>
@@ -1324,7 +1324,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="selection-of-the-model-in-the-presence-of-a-trend" class="level2">
 <h2 class="anchored" data-anchor-id="selection-of-the-model-in-the-presence-of-a-trend">Selection of the model in the presence of a trend</h2>
-<p><img src="fortunewalla.net/posts/cs05-evaluationofstationarydemand/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs05-evaluationofstationarydemand/fig2.jpg" class="img-fluid"></p>
 <p>If we assume there is a positive trend in the data then none of these models are appropriate for demand with a trend pattern. The Cumulative, Naive, and Moving Average forecasts all assume stationary demand. That means that you only assume a Level pattern to the demand with some random noise.</p>
 
 
@@ -1336,12 +1336,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs05-evaluationofstationarydemand/index.html</guid>
+  <guid>/posts/cs05-evaluationofstationarydemand/index.html</guid>
   <pubDate>Thu, 19 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Analysis of three black‐box type demand forecasting models</title>
-  <link>fortunewalla.net/posts/cs04-analysisofblackboxtypedemand/index.html</link>
+  <link>/posts/cs04-analysisofblackboxtypedemand/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1359,7 +1359,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 <p>As input data, you have been given the forecast that each model yielded for hot dogs demand in each game in the two most recent seasons. You have also been given by the concessions a detailed record of the actual demand for hot dogs in each of the 81 games of these two seasons.</p>
 <section id="visualization-of-raw-data" class="level2">
 <h2 class="anchored" data-anchor-id="visualization-of-raw-data">Visualization of raw data</h2>
-<p><img src="fortunewalla.net/posts/cs04-analysisofblackboxtypedemand/9a2a88bdd81c37122889f948d1c6c8d8.png" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs04-analysisofblackboxtypedemand/9a2a88bdd81c37122889f948d1c6c8d8.png" class="quarto-discovered-preview-image img-fluid"></p>
 </section>
 <section id="comparison-of-the-mean-deviation-md-among-the-three-models" class="level2">
 <h2 class="anchored" data-anchor-id="comparison-of-the-mean-deviation-md-among-the-three-models">Comparison of the mean deviation (MD) among the three models</h2>
@@ -1518,12 +1518,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs04-analysisofblackboxtypedemand/index.html</guid>
+  <guid>/posts/cs04-analysisofblackboxtypedemand/index.html</guid>
   <pubDate>Wed, 18 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Suitability of stationary demand models for forecasting</title>
-  <link>fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/index.html</link>
+  <link>/posts/cs01-suitabilityofstationarydemandmodels/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1539,13 +1539,13 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </section>
 <section id="visualization-of-the-raw-data" class="level1">
 <h1>Visualization of the raw data</h1>
-<p><img src="fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/a0b469b9abf2c42032068c851e70aa81.png" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs01-suitabilityofstationarydemandmodels/a0b469b9abf2c42032068c851e70aa81.png" class="quarto-discovered-preview-image img-fluid"></p>
 <p><strong>Q1. What is the trend over the last three years?</strong></p>
 <p>There appears to be a positive trend. From the graph there is an increase in the demand of palm oil by about 24 lbs per month for the last three years.</p>
-<p><img src="fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/d6300b600473130800c577e600fe9a41.png" class="img-fluid"></p>
+<p><img src="/posts/cs01-suitabilityofstationarydemandmodels/d6300b600473130800c577e600fe9a41.png" class="img-fluid"></p>
 <p><strong>Q2. Does there appear to be any seasonality in the demand pattern?</strong></p>
 <p>Yes. If we plot the data by the months for each of the years, there seems to be seasonality to the demand. Demand is low from January to May. It picks up from June to August and then again from October to December.</p>
-<p><img src="fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/7e8963b5923d1e0b71940da630ea2e9b.png" class="img-fluid"></p>
+<p><img src="/posts/cs01-suitabilityofstationarydemandmodels/7e8963b5923d1e0b71940da630ea2e9b.png" class="img-fluid"></p>
 <p><strong>Q3. What is the forecast for demand in January 2015?</strong></p>
 <table class="table">
 <colgroup>
@@ -1607,7 +1607,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 </table>
 <p><strong>Q5. Which of these three models is most appropriate for forecasting the January 2015 demand?</strong></p>
 <p>None. As shown above, the palm oil data shows a positive trend &amp; seasonality during the years. The Naïve model forecast for Jan 2015 is clearly different from the previous trends. While the cumulative &amp; naïve models are quite calm indicating they are forecasting demand closer to the average of the data. The main reason for this discrepancies is that the above three models assume a stationary demand that is very close to the level of the mean.</p>
-<p><img src="fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/fig4.png" class="img-fluid"></p>
+<p><img src="/posts/cs01-suitabilityofstationarydemandmodels/fig4.png" class="img-fluid"></p>
 
 
 </section>
@@ -1617,12 +1617,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs01-suitabilityofstationarydemandmodels/index.html</guid>
+  <guid>/posts/cs01-suitabilityofstationarydemandmodels/index.html</guid>
   <pubDate>Tue, 17 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Performance characteristics of forecasting models</title>
-  <link>fortunewalla.net/posts/cs02-performancecharacteristics/index.html</link>
+  <link>/posts/cs02-performancecharacteristics/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1637,7 +1637,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 <section id="visualization-of-the-raw-data" class="level1">
 <h1>Visualization of the raw data</h1>
 <p>Raw data &amp; forecasts supplied by the demand planner at Ordroid Devices</p>
-<p><img src="fortunewalla.net/posts/cs02-performancecharacteristics/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs02-performancecharacteristics/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <p><strong>Calculate some different performance characteristics for the data sample given.</strong></p>
 <p><img src="https://latex.codecogs.com/png.latex?%0AMD=%5Cfrac%7B%5Csum_%7Bi=1%7D%5E%7Bn%7D%20(Actual_%7Bi%7D-Forecast_%7Bi%7D)%7D%7Bn%7D%0A"> <img src="https://latex.codecogs.com/png.latex?%0AMAD=%5Cfrac%7B%5Csum_%7Bi=1%7D%5E%7Bn%7D%20%5Clvert%20Actual_%7Bi%7D-Forecast_%7Bi%7D%5Crvert%7D%7Bn%7D%0A"> <img src="https://latex.codecogs.com/png.latex?%0ARMSE=%5Csqrt%7B%5Cfrac%7B%5Csum_%7Bi=1%7D%5E%7Bn%7D%20(Actual_%7Bi%7D-Forecast_%7Bi%7D)%5E2%7D%7Bn%7D%7D%0A"> <img src="https://latex.codecogs.com/png.latex?%0AMPE=%5Cfrac%7B%5Csum_%7Bi=1%7D%5E%7Bn%7D%20%5Cfrac%7B%20(Actual_%7Bi%7D-Forecast_%7Bi%7D)%7D%7BActual_%7Bi%7D%7D%7D%7Bn%7D%0A"> <img src="https://latex.codecogs.com/png.latex?%0AMAPE=%5Cfrac%7B%5Csum_%7Bi=1%7D%5E%7Bn%7D%20%5Clvert%20%5Cfrac%7BActual_%7Bi%7D-Forecast_%7Bi%7D%7D%7BActual_%7Bi%7D%7D%5Crvert%7D%7Bn%7D%0A"></p>
 <div class="table-responsive">
@@ -1683,7 +1683,7 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 <p>Seasonality requires a whole cycle. There is not even one full year of data. So as of now, it is too early to fully evaluate seasonality. You need at least two full cycles to determine seasonality.</p>
 <p><strong>Q2. What can you say about the presence of a trend in the demand?</strong></p>
 <p>Although we don’t have a year’s worth of data, there seems to be a positive trend of about 10% increase in demand in the data or about 171 devices per month.</p>
-<p><img src="fortunewalla.net/posts/cs02-performancecharacteristics/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs02-performancecharacteristics/fig2.jpg" class="img-fluid"></p>
 <p><strong>Q3. What can you say about the bias of the forecast?</strong></p>
 <p>A bias is a persistent tendency to over or under predict. These forecasts are not persistent in either. In fact, of the six periods, half are over forecast and half are under forecast. So, there does not appear to be any bias in the forecast.</p>
 <p><strong>Q4. What can you say about the accuracy of the forecast?</strong></p>
@@ -1697,12 +1697,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs02-performancecharacteristics/index.html</guid>
+  <guid>/posts/cs02-performancecharacteristics/index.html</guid>
   <pubDate>Tue, 17 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Improving the naïve model forecast using cumulative period model</title>
-  <link>fortunewalla.net/posts/cs03-comparisonnaivecumulative/index.html</link>
+  <link>/posts/cs03-comparisonnaivecumulative/index.html</link>
   <description><![CDATA[ 
 
 
@@ -1713,9 +1713,9 @@ Q30. Anything you wish to share about your experiences that most people don’t 
 <p>You have been hired by General Miles, a company that produces healthy gluten‐free breakfast cereal bars. The last market introduction happened a year ago and your manager thinks there might be an issue in the forecasting methodology. They are currently using a simple Naive forecasting model and you think there might be some room for improvement.</p>
 <p>Your boss provides you with the sales for the last 12 months and the forecasts for the last 11 months. No data is available to forecast the first month as the product was totally new to the market at the time.</p>
 <p><strong>Visualization of the raw data</strong></p>
-<p><img src="fortunewalla.net/posts/cs03-comparisonnaivecumulative/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
+<p><img src="/posts/cs03-comparisonnaivecumulative/fig1.jpg" class="quarto-discovered-preview-image img-fluid"></p>
 <p><strong>Comparison of the forecasting models</strong></p>
-<p><img src="fortunewalla.net/posts/cs03-comparisonnaivecumulative/fig2.jpg" class="img-fluid"></p>
+<p><img src="/posts/cs03-comparisonnaivecumulative/fig2.jpg" class="img-fluid"></p>
 <p><strong>Comparison of Model Error Metrics</strong></p>
 <table class="table">
 <thead>
@@ -1748,12 +1748,12 @@ Q30. Anything you wish to share about your experiences that most people don’t 
   <category>product</category>
   <category>excel</category>
   <category>forecasting</category>
-  <guid>fortunewalla.net/posts/cs03-comparisonnaivecumulative/index.html</guid>
+  <guid>/posts/cs03-comparisonnaivecumulative/index.html</guid>
   <pubDate>Tue, 17 Nov 2015 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Connect to and query Microsoft SQL Server using SAS/ACCESS Interface to ODBC</title>
-  <link>fortunewalla.net/posts/09-connectquerymssqlsasinterfaceodbc/index.html</link>
+  <link>/posts/09-connectquerymssqlsasinterfaceodbc/index.html</link>
   <description><![CDATA[ 
 
 
@@ -3198,12 +3198,12 @@ cpu time 0.03 seconds
   <category>datascience</category>
   <category>sas</category>
   <category>odbc</category>
-  <guid>fortunewalla.net/posts/09-connectquerymssqlsasinterfaceodbc/index.html</guid>
+  <guid>/posts/09-connectquerymssqlsasinterfaceodbc/index.html</guid>
   <pubDate>Sat, 17 May 2014 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Project to implement remote PHP web client/ MSSQL database server network setup</title>
-  <link>fortunewalla.net/posts/08-projecttoimplementremotedb/index.html</link>
+  <link>/posts/08-projecttoimplementremotedb/index.html</link>
   <description><![CDATA[ 
 
 
@@ -3749,13 +3749,13 @@ MSSQL master.dbo.spt_monitor TABLE
   <category>datascience</category>
   <category>php</category>
   <category>mysql</category>
-  <guid>fortunewalla.net/posts/08-projecttoimplementremotedb/index.html</guid>
+  <guid>/posts/08-projecttoimplementremotedb/index.html</guid>
   <pubDate>Thu, 15 May 2014 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Software choices to implement a remote database client/server network setup</title>
   <dc:creator>Fortune Walla</dc:creator>
-  <link>fortunewalla.net/posts/07-softwarechoicesremotedb/index.html</link>
+  <link>/posts/07-softwarechoicesremotedb/index.html</link>
   <description><![CDATA[ 
 
 
@@ -3812,12 +3812,12 @@ Misc. client software: MS Excel, MS Access, R, Python. It is advisable to try th
   <category>article</category>
   <category>datascience</category>
   <category>sas</category>
-  <guid>fortunewalla.net/posts/07-softwarechoicesremotedb/index.html</guid>
+  <guid>/posts/07-softwarechoicesremotedb/index.html</guid>
   <pubDate>Wed, 07 May 2014 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Referring to a SAS data set with its full filesystem path</title>
-  <link>fortunewalla.net/posts/06-referringsasdatasetfullpath/index.html</link>
+  <link>/posts/06-referringsasdatasetfullpath/index.html</link>
   <description><![CDATA[ 
 
 
@@ -3836,12 +3836,12 @@ run;</code></pre>
   <category>article</category>
   <category>datascience</category>
   <category>sas</category>
-  <guid>fortunewalla.net/posts/06-referringsasdatasetfullpath/index.html</guid>
+  <guid>/posts/06-referringsasdatasetfullpath/index.html</guid>
   <pubDate>Thu, 03 Apr 2014 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>How to find out and use the number of observations in a given SAS data set</title>
-  <link>fortunewalla.net/posts/05-howtofindnoofobssas/index.html</link>
+  <link>/posts/05-howtofindnoofobssas/index.html</link>
   <description><![CDATA[ 
 
 
@@ -3911,7 +3911,7 @@ run;</code></pre>
   <category>article</category>
   <category>datascience</category>
   <category>sas</category>
-  <guid>fortunewalla.net/posts/05-howtofindnoofobssas/index.html</guid>
+  <guid>/posts/05-howtofindnoofobssas/index.html</guid>
   <pubDate>Sat, 15 Mar 2014 18:30:00 GMT</pubDate>
 </item>
 </channel>
